@@ -1,7 +1,7 @@
 ---
 title: "Zelda Breath of the Wild"
 date: 2021-05-11T21:56:53+02:00
-draft: true
+draft: false
 ---
 
 This is an Example BOTW Post
